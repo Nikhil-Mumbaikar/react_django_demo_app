@@ -4,4 +4,4 @@ A demo app for React and Django Deployment
 docker-compose down
 docker-compose up -d
 
-#run by docker-compose
+#run by cicd
